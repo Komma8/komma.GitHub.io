@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+找一个理由噼里啪啦敲键盘。
 
-Maybe say a some things about yourself.
+也许我有想说的话。
 
-Or maybe what you plan to blog about.
+ 也许没有。
