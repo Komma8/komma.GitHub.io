@@ -1,32 +1,5 @@
-## Blog Post Title From First Header
+## 关于纪念照片
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+一段经历是否愉快不重要，只要有一张充满笑脸（面具）的图像产生则足以证明"好时光"。放弃面具的脸对此幻象功能则有破坏性。当图像充当最主要最容易交流的媒介，一目了然就成了重要甚至必要的特质，这样的交流基础就是观者将它放在熟悉的框架中解读。自然表情的，有着不确定性的脸则难以解读，让人困惑/焦虑，于是会被无视。观者所见所感同时无法超越其本人视野与感受的局限。愚见，"难以解读"的脸正提醒了 scheinbar "可解读"的愉悦的欺骗性和无必要。
 
 ---
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
