@@ -1,6 +1,6 @@
 ---
 layout: page
-浮思: Blog Archive
+title: Blog Archive
 ---
 
 {% for tag in site.tags %}
